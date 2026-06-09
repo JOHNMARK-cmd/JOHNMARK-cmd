@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F73C0C&multiline=true&width=436&lines==Heyyy;I+am+John+Mark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F73C0C&multiline=true&width=436&lines==Heyo!+I+am+John+Mark)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Data+Data+Everywhere)](https://git.io/typing-svg)
