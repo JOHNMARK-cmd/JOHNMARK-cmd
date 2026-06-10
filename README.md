@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm John Mark</h1>
+<h1 align="center">Obsession: The Burning Desire to Get What I Want</h1>
 <h3 align="center">A passionate data scientist from Kenya.</h3>
 
 > Talk is cheap. Show me the code.
