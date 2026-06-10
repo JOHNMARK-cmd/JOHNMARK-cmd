@@ -1,7 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F73C0C&multiline=true&width=436&lines==Heyo!+I+am+John+Mark)](https://git.io/typing-svg)
-.
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Data+Data+Everywhere)](https://git.io/typing-svg)
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/john-ang-awa-1874a2391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JOHNMARK-cmd" height="30" width="40" /></a>
+<a href="https://instagram.com/booksandquot3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="booksandquot3s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@the_McAngawa_projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elenayankova229" height="30" width="40" /></a>
+
 
 ![Header Image](https://github.com/abressiddique/abressiddique/blob/main/github-header-image%20(4).png)
 
