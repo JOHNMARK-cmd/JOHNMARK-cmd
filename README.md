@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F73C0C&multiline=true&width=436&lines==Heyo!+I+am+John+Mark)](https://git.io/typing-svg)
+<h1 align="center">Hello World! 👋 I'm John Mark</h1>
+<h3 align="center">A passionate data scientist from Kenya.</h3>
 
+> Talk is cheap. Show me the code.
+> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Data+Data+Everywhere)](https://git.io/typing-svg)
 
@@ -21,11 +24,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aJOHNMARK-cmd&label=Profile%20views&color=ff69b4&style=flat" alt="JOHNMARK-cmd" /> </p>
 
-<p align="center">
 
-![GitHub GIF](githubgif.gif)
-  <img src="https://skillicons.dev/icons?i=bash,javascript,python,html,css,sass&perline=8" alt="Languages" />
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.html.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ElenaGYankova/ElenaGYankova/assets/122468758/f01ff7b3-8999-4ca8-aaf9-2f4ce88f7490" alt="html" width="40" height="40"/> </a> <a href="https://www.css.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ElenaGYankova/ElenaGYankova/assets/122468758/637d79c8-eb57-4418-a10a-a21afa785eb6" alt="css" width="40" height="40"/> </a> </p>
 
 <!---
 JOHNMARK-cmd/JOHNMARK-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
